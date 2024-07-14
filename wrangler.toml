@@ -1,0 +1,7 @@
+[[d1_databases]]
+binding = "DB"                                       # i.e. available in your Worker on env.DB
+database_name = "remix-d1"
+database_id = "2793a466-5529-45c4-b0a4-9a36274d621f"
+
+# Also add this field
+migrations_dir = "./app/db/migrations"
